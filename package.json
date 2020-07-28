@@ -23,8 +23,8 @@
     "cli"
   ],
   "devDependencies": {
-    "@types/node": "^10.10.1",
-    "tslint": "^5.11.0",
-    "typescript": "^3.0.3"
+    "@types/node": "^10.17.28",
+    "tslint": "^5.20.1",
+    "typescript": "^3.9.7"
   }
 }
